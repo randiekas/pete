@@ -1,0 +1,71 @@
+[
+    {
+        "judul": "Hello Learner",
+        "gambar": "",
+        "lottie": "lottie/hello2.json",
+        "tipe": "materi",
+        "konten": ["Hey, Hello!", "Saya bilbul, atau nama lengkapnya <b>bilangan bulat</b>", "kakak kesini pasti untuk bisa dekat dengan dan bermain dengan saya kan ? 😀", "Ayo lanjut kenal aku lebih jauh 🤓"]
+    }, {
+        "judul": "",
+        "gambar": "",
+        "lottie": "lottie/bilangan.json",
+        "tipe": "materi",
+        "konten": [
+            "Tahukah kalian apa itu bilangan?",
+            "Bilangan merupakan suatu konsep dalam matematika yang digunakan untuk melakukan pencacahan dan pengukuran.",
+            "Secara sederhana dapat disebutkan bahwa bilangan digunakan untuk menyatakan banyak atau jumlah suatu objek."
+        ]
+    }, {
+        "judul": "",
+        "gambar": "",
+        "lottie": "",
+        "tipe": "materi",
+        "konten": [
+            "Bilangan bulat merupakan suatu bilangan tak pecahan yang terdiri atas",
+            "Bilangan bulat positif : 1, 2, 3, 4, . . .",
+            "Bilangan bulat negatif : . . ., -4, -3, -2, -1",
+            "Secara umum, himpunan bilangan bulat dituliskan sebagai  { . . ., -4, -3, -2, -1, 0, 1, 2, 3, 4}. Bilangan bulat dilambangkan dengan Z, yang berasal dari kata “zahlen” (bahasa Jerman) yang berarti bilangan."
+        ]
+    }, {
+        "judul": "",
+        "gambar": "https://rumuspintar.com/wp-content/uploads/2019/07/Garis-Bilangan-Bulat.jpg",
+        "lottie": "",
+        "tipe": "materi",
+        "konten": [
+            "Bilangan bulat dapat disajikan dalam garis bilangan seperti diatas 👆.",
+            "Dalam bilangan bulat juga dapat dikelompokkan ke dalam dua bagian yaitu",
+            "Bilangan genap : . . ., -6, -4, -2, 0, 2, 4, 6, . . .  Bilangan genap merupakan himpunan bilangan yang jika dibagi 2 bersisa 0.",
+            "Bilangan ganjil : . . ., -5, -3, -1, 1, 3, 5, . . . Bilangan ganjil merupakan himpunan bilangan yang jika dibagi 2 bersisa 1 atau -1."
+        ]
+    }, {
+        "judul": "",
+        "gambar": "",
+        "lottie": "",
+        "tipe": "tes",
+        "konten": [
+            {
+                "soal": "Berikut adalah bilangan genap 2, 8, 10, 24",
+                "tipe": "true_false",
+                "jawaban": "benar"
+            }
+        ]
+    }, {
+        "judul": "",
+        "gambar": "",
+        "lottie": "",
+        "tipe": "tes",
+        "konten": [
+            {
+                "soal": "Bilangan ganjil adalah bilangan yang jika dibagi 2 bersisa 0",
+                "tipe": "true_false",
+                "jawaban": "salah"
+            }
+        ]
+    }, {
+        "judul": "",
+        "gambar": "",
+        "lottie": "",
+        "tipe": "materi",
+        "konten": ["Selamat, kamu sudah menguasai bilangan bulat 😌"]
+    }
+]
